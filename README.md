@@ -32,7 +32,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       |    PANTUN                         |
 |       ✅       | ANIMEPICT                         |
 |       ✅       | STICKER                           |
-|       ✅       | NULIS                             |
+|       ❌       | NULIS                             |
 |       ✅       | QUOTES                            |
 |       ✅       | RANDOM PICT                       |
 |       ✅       | ANIMEPICT                         |
@@ -41,7 +41,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
 |       ✅       | WIKIPEDIA                         |
 |       ✅       | ARTI NAMA                         |
-|       ✅       | SHOLAT                            |
+|       ❌       | SHOLAT                            |
 |       ✅       | QURAN                             |
 |       ✅       | KAMING SUN                        |
 
